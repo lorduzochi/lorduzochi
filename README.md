@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lorduzochi
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on learning and becoming better 
+- 👋 Hi, I’m Lord Uzochi
+- 👀 I’m a Data Analyst
+- 🌱 Technical Tools: Microsoft Excel, SQL, Power BI, and Python.
+- 💞️ I’m open to collaboration on projects 
 - 📫 How to reach me lorduzochi@gmail.com 
 
 <!---
