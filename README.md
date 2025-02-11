@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lord Uzochi
 - 👀 I’m a Data Analyst
-- 🌱 Technical Tools: Microsoft Excel, SQL, Power BI, and Python.
-- 💞️ I’m open to collaboration on projects 
-- 📫 How to reach me lorduzochi@gmail.com 
+- 🌱 I'm currently learning storytelling
+- 💞️ I’m open to collaborate on data analysis projects 
+- 🔗 Reach me on lorduzochi@gmail.com 
 
 <!---
 lorduzochi/lorduzochi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
